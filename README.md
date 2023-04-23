@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @TejaswiniHirudkar
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning react and django for the web development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning react for the web development.
+- ✨ Student at Acciojob for Full Stack Web Development.
 
 <!---
 TejaswiniHirudkar/TejaswiniHirudkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
